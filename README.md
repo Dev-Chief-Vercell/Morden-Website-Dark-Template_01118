@@ -146,6 +146,6 @@ There are lots of good conversations and resources in our Github Discussions boa
 
 ## ⭐ Like what we're doing? Give us a star
 
-## 👏 Thanks to all our contributors
+## 👏 Thanks to  our contributors
 
-<img align="left" src="https://contributors-img.web.app/image?repo=payloadcms/payload"/>
+<a href="https://freeimage.host/i/fWFf5aR"><img src="https://iili.io/fWFf5aR.md.png" alt="fWFf5aR.md.png" border="0"></a>
